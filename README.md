@@ -1,4 +1,4 @@
-# 微信答题小程序辅助工具（适用于知乎答题王、丰云榜、挑战答题王等微信答题小程序）
+# 微信答题小程序辅助工具（适用于知乎答题王、丰云榜、挑战答题王等微信答题小程序、app）
 ## 思路
 1.手机进入答题app
 
@@ -30,7 +30,7 @@ pip install baidu-aip
 
 4.在img_utils中调整截图区域（WIDTH、QUESTION_AREA_START、QUESTION_AREA_HEIGHT）
 
-5.手机进入开发者模式，用数据线连接到Windows，进入答题app
+5.手机进入开发者模式，用数据线连接到Windows，进入答题微信小程序或app
 
 6.在Windows命令行执行
 ```shell
